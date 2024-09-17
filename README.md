@@ -1,2 +1,2 @@
 # mbs_sbm
-Short about me for TE prework
+Changing up the readme content as part of this exercise. 
